@@ -10,4 +10,3 @@ class Solution:
             cursum+=i
             maxsum=max(maxsum,cursum)
         return maxsum
-
