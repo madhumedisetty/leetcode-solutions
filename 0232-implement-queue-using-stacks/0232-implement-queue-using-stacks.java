@@ -15,8 +15,7 @@ class MyQueue {
     }
     
     public int pop() {
-        int x=s1.pop();
-        return x;
+        return(s1.pop());
     }
     
     public int peek() {
